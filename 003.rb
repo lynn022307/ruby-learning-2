@@ -1,6 +1,6 @@
-Learn ruby the hard way #003
-Exercises about operators and how they works
-use irb in terminal
+#Learn ruby the hard way #003
+#Exercises about operators and how they works
+#use irb in terminal
 
 puts "I will not count my chickens:" #I will not count my chickens:
 puts "Hens #{25 + 30 / 6}" #Hens 30

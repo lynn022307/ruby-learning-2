@@ -1,4 +1,4 @@
-Learn ruby the hard way #001
+#Learn ruby the hard way #001
 puts "Hello World!" #Hello World!
 puts "Hello Again" #Hello Again
 puts "I like typing this." #I like typing this.
