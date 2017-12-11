@@ -1,10 +1,10 @@
 #Learn ruby the hard way #003
-#Exercises about operators and how they works
-#use irb in terminal
+#Exercises about operators and how they work
+
 
 puts "I will not count my chickens:" #I will not count my chickens:
 puts "Hens #{25 + 30 / 6}" #Hens 30
-puts "Roosters #[100 - 25 * 3 % 4]" #97 
+puts "Roosters #{100 - 25 * 3 % 4}"
 puts "Now I will count the eggs" #Now I will count the eggs
 puts 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6 #7
 puts "Is it true that 3 + 2 < 5 - 7?" #Is it true that 3 + 2 < 5 - 7?
