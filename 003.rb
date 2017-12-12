@@ -1,7 +1,6 @@
 #Learn ruby the hard way #003
 #Exercises about operators and how they work
 
-
 puts "I will not count my chickens:" #I will not count my chickens:
 puts "Hens #{25 + 30 / 6}" #Hens 30
 puts "Roosters #{100 - 25 * 3 % 4}"
